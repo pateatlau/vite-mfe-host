@@ -18,4 +18,8 @@ Next, run the following command to start the development server:
 npm run dev
 ```
 
+## Summary
+
+The remote MFE repository is located at https://github.com/patea/vite-mfe-remote.
 The development server will start at `http://localhost:5555`.
+The live application is available at https://mfe-oflom8uum-lalding.vercel.app/.
